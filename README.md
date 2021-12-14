@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prashant Sharma
 - 👀 I’m interested in Coding/Technology/Learning
 - 🌱 I’m currently learning DSA/Full stack Development
-- 💞️ I’m looking for a job in any Product Based Company
 - 📫 How to reach me prashant.innovative01@gmail.com
 
 <!---
